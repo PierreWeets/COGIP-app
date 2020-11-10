@@ -26,7 +26,7 @@ He has been using old, ugly and incomplete software for years.
 
 We suggest you code a web application that will meet the needs and desires of Jean-Christian.
 
-#### Qui sommes nous 
+#### the co-workers 
 
 1. [Adrien Delpire](https://github.com/Delvaux1986)
 2. [Jean-Charles Brognez](https://github.com/jcbrognez)
