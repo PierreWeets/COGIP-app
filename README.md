@@ -1,37 +1,30 @@
-# Challenge ( grp )COGIP-app
+# COGIP-app
 
 ![Gif Challenge](./assets/img/gifreadme.gif)
 
-**Challenge de groupe création d'une app de comptabiliter**
+**Group challenge creation of an accounting application**
 
-[lien vers le challenge](https://github.com/becodeorg/CRL-Woods-3.21/tree/master/LearningPath/03.The-Mountain/12.PHP/PHP-Challenges/cogip)
+[the requests](https://github.com/becodeorg/CRL-Woods-3.21/tree/master/LearningPath/03.The-Mountain/12.PHP/PHP-Challenges/cogip)
 
-#### Evaluation votre projet en fonction de:
+#### the project is based on:
 
-1. Utilisation de différents paramètres d'URL et nom de fichier.
-2. Utilisation du sanitize pour éviter les injections SQL.
-3. Validation des données.
-4. Construction d'une base de données relationnelle fonctionnelle .
-5. Utilisation de jointures correctes dans SQL.
-6. Utilisation d'alias dans votre requête SQL.
-7. Implémentation d'un CRUD pour lire, ajouter, modifier et supprimer des données.
-
-#### La mission 
-
-Le COGIP est une entreprise dont on ne sait pas grand-chose à part qu'ils produisent des jouets Jean-Michel et qu'ils sont des ouvriers sérieux. Ils ont également des employés incroyables dans leur rang.
-
-Jean-Christian Ranu travaille en comptabilité au COGIP. Il utilise depuis des années un logiciel ancien, laid et incomplet, le faisant passer entre lui et excelle la feuille. Jean-Christian aime la paella, les mots croisés et sa collègue Muriel Perrache.
-
-Nous vous proposons de coder une application web qui répondra aux besoins et aux envies de Jean-Christian.
+1. Using different URL parameters and filename.
+2. Using sanitize to avoid SQL injections.
+3. Data validation.
+4. Construction of a functional relational database.
+5. Using correct joins in SQL.
+6. Using aliases in your SQL query.
+7. Implementation of a CRUD to create, read, update and delete data.
 
 
-#### Deadline 
+#### the mission 
 
-Le challenge a commencer le Lundi 07/09/2020 et doit etre rendu pour le 17/09/2020 a 17h00.
+COGIP is a toy company.
 
-#### Ou en sommes nous 
+Jean-Christian Ranu works in accounting at COGIP.
+He has been using old, ugly and incomplete software for years.
 
-nous allons commencer a baliser le travail tous ensemble .
+We suggest you code a web application that will meet the needs and desires of Jean-Christian.
 
 #### Qui sommes nous 
 
