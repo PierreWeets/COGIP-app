@@ -15,6 +15,7 @@
 5. Using correct joins in SQL.
 6. Using aliases in your SQL query.
 7. Implementation of a CRUD to create, read, update and delete data.
+8. MVC design pattern
 
 
 #### the mission 
